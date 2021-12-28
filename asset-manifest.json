@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/universityranker/static/css/main.c24d93bd.chunk.css",
-    "main.js": "/universityranker/static/js/main.d77f56bb.chunk.js",
-    "main.js.map": "/universityranker/static/js/main.d77f56bb.chunk.js.map",
-    "runtime-main.js": "/universityranker/static/js/runtime-main.659c15d5.js",
-    "runtime-main.js.map": "/universityranker/static/js/runtime-main.659c15d5.js.map",
-    "static/js/2.2f5235f7.chunk.js": "/universityranker/static/js/2.2f5235f7.chunk.js",
-    "static/js/2.2f5235f7.chunk.js.map": "/universityranker/static/js/2.2f5235f7.chunk.js.map",
-    "static/js/3.7e1c6d27.chunk.js": "/universityranker/static/js/3.7e1c6d27.chunk.js",
-    "static/js/3.7e1c6d27.chunk.js.map": "/universityranker/static/js/3.7e1c6d27.chunk.js.map",
-    "index.html": "/universityranker/index.html",
-    "static/css/main.c24d93bd.chunk.css.map": "/universityranker/static/css/main.c24d93bd.chunk.css.map",
-    "static/js/2.2f5235f7.chunk.js.LICENSE.txt": "/universityranker/static/js/2.2f5235f7.chunk.js.LICENSE.txt"
+    "main.css": "/ajayshekhawat256/universityranker/static/css/main.c24d93bd.chunk.css",
+    "main.js": "/ajayshekhawat256/universityranker/static/js/main.d77f56bb.chunk.js",
+    "main.js.map": "/ajayshekhawat256/universityranker/static/js/main.d77f56bb.chunk.js.map",
+    "runtime-main.js": "/ajayshekhawat256/universityranker/static/js/runtime-main.4ac1e813.js",
+    "runtime-main.js.map": "/ajayshekhawat256/universityranker/static/js/runtime-main.4ac1e813.js.map",
+    "static/js/2.2f5235f7.chunk.js": "/ajayshekhawat256/universityranker/static/js/2.2f5235f7.chunk.js",
+    "static/js/2.2f5235f7.chunk.js.map": "/ajayshekhawat256/universityranker/static/js/2.2f5235f7.chunk.js.map",
+    "static/js/3.7e1c6d27.chunk.js": "/ajayshekhawat256/universityranker/static/js/3.7e1c6d27.chunk.js",
+    "static/js/3.7e1c6d27.chunk.js.map": "/ajayshekhawat256/universityranker/static/js/3.7e1c6d27.chunk.js.map",
+    "index.html": "/ajayshekhawat256/universityranker/index.html",
+    "static/css/main.c24d93bd.chunk.css.map": "/ajayshekhawat256/universityranker/static/css/main.c24d93bd.chunk.css.map",
+    "static/js/2.2f5235f7.chunk.js.LICENSE.txt": "/ajayshekhawat256/universityranker/static/js/2.2f5235f7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.659c15d5.js",
+    "static/js/runtime-main.4ac1e813.js",
     "static/js/2.2f5235f7.chunk.js",
     "static/css/main.c24d93bd.chunk.css",
     "static/js/main.d77f56bb.chunk.js"
